@@ -1,0 +1,13 @@
+name: geopandas
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - geopandas
+  - geoplot
+  - jupyterlab
+  - pysal
+  - pip
+  - pip:
+    - contextily
+    - mapclassify

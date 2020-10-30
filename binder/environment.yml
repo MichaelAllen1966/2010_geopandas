@@ -1,0 +1,14 @@
+name: geopandas
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - geopandas=0.8.1
+  - geoplot=0.4.1
+  - jupyterlab=2.1.5.
+  - pysal=2.2.0
+  - python=3.7.7
+  - pip=20.2.2
+  - pip:
+    - contextily==1.0.0
+    - mapclassify==2.3.0

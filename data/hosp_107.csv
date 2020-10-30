@@ -1,0 +1,108 @@
+hospital,lat,long,Strategic Clinical Network,Stroke Team,Local
+RM70AG,51.5686204781614,0.179031,London SCN,"Queen's Hospital, Romford",0
+E11BB,51.519024600693,-0.058075031814056,London SCN,The Royal London Hospital,0
+SW66SX,51.4737150883794,-0.212721758225151,London SCN,"Charing Cross Hospital, London",0
+SE59RW,51.4695040169144,-0.093251532341465,London SCN,"King's College Hospital, London",0
+BR68ND,51.366243,0.059146,London SCN,Princess Royal University Hospital; Orpington,0
+HA13UJ,51.575407,-0.322037,London SCN,"Northwick Park Hospital, Harrow",0
+SW170QT,51.426726066946,-0.175745891276585,London SCN,"St George's Hospital, London",0
+NW12BU,51.5248641467887,-0.13701250878242,London SCN,"University College London Hospital, London",0
+DE223NE,52.911193,-1.514514,East Midlands SCN,Royal Derby Hospital,0
+NN15BD,52.236054,-0.883844,East Midlands SCN,Northampton General Hospital,0
+NG51PB,52.990993,-1.159893,East Midlands SCN,Nottingham City Hospital,0
+NG174JL,53.13434,-1.232284,East Midlands SCN,"Kings Mill Hospital, Mansfield",0
+LN25QY,53.2335745059999,-0.519650130607313,East Midlands SCN,Lincoln County Hospital,0
+PE219QS,52.991125,-0.009968,East Midlands SCN,"Pilgrim Hospital, Boston",0
+LE15WW,52.6278153900129,-1.13480281992317,East Midlands SCN,Leicester Royal Infirmary,0
+SS165NL,51.5576848059455,0.450557256628072,East of England SCN,Basildon University Hospital,0
+CB20QQ,52.173741,0.139114,East of England SCN,"Addenbrooke's Hospital, Cambridge",0
+CO45JL,51.9101718568211,0.899182886270035,East of England SCN,Colchester General Hospital,0
+SG14AB,51.924611,-0.212726,East of England SCN,"Lister Hospital, Stevenage",0
+IP45PD,52.05684765276,1.19791467368234,East of England SCN,Ipswich Hospital,0
+NR316LA,52.5616708429901,1.71797992963019,East of England SCN,"James Paget Hospitals, Great Yarmouth",0
+LU40DZ,51.895405,-0.476044,East of England SCN,Luton and Dunstable Hospital,0
+CM17ET,51.7745841696332,0.465993,East of England SCN,"Broomfield Hospital, Chelmsford",0
+NR47UY,52.6180846626171,1.22106684751945,East of England SCN,Norfolk and Norwich University Hospital,0
+PE39GZ,52.583921,-0.279386,East of England SCN,Peterborough City Hospital,0
+PE304ET,52.7567799567537,0.446999307318277,East of England SCN,"Queen Elizabeth Hospital, Kings Lynn",0
+SS00RY,51.5538343385818,0.688617,East of England SCN,Southend Hospital,0
+WD180HB,51.648921,-0.404187,East of England SCN,Watford General Hospital,0
+IP332QZ,52.231661094221,0.709175571219294,East of England SCN,"West Suffolk Hospital, Bury St Edmonds",0
+DY12HQ,52.502944,-2.118518,West Midlands SCN,"Russells Hall Hospital, Dudley",0
+B95SS,52.48021687,-1.829965589,West Midlands SCN,Birmingham Heartlands Hospital,0
+WV100QP,52.599722,-2.095555,West Midlands SCN,"New Cross Hospital, Wolverhampton",0
+B714HJ,52.52735537,-1.987884444,West Midlands SCN,"Sandwell District Hospital, West Bromwich",0
+TF16TF,52.712107,-2.511491,West Midlands SCN,"Princess Royal Hospital, Telford",0
+B152TH,52.4532708,-1.938476,West Midlands SCN,"Queen Elizabeth Hospital, Birmingham",0
+CV22DX,52.421211,-1.438403,West Midlands SCN,"University Hospital, Coventry",0
+ST46QG,53.0040195762706,-2.21487233596217,West Midlands SCN,Royal Stoke University Hospital,0
+WR51DD,52.1912009117257,-2.18114349682672,West Midlands SCN,"Worcestershire Royal Hospital, Worcester",0
+HR12ER,52.0569407344173,-2.705709,West Midlands SCN,Hereford County Hospital,0
+L97AL,53.466323,-2.931104,Cheshire and Mersey SCN,"University Hospital Aintree, Liverpool",0
+CH21UL,53.2088,-2.897884,Cheshire and Mersey SCN,"Countess of Chester Hospital, Chester",0
+L78XP,53.4095051005197,-2.96480875690615,Cheshire and Mersey SCN,Royal Liverpool University Hospital,0
+PR86PN,53.6336637202891,-2.978159,Cheshire and Mersey SCN,Southport and Formby District General,0
+L355DR,53.420469,-2.784954,Cheshire and Mersey SCN,"Whiston Hospital, Prescot",0
+CH495PE,53.370214,-3.096184,Cheshire and Mersey SCN,"Arrowe Park Hospital, Wirral",0
+FY38NR,53.8206684794917,-3.0162644832348,Manchester; Lancashire & S.Cumbria SCN,Blackpool Victoria Hospital,0
+BB23HH,53.73556,-2.462716,Manchester; Lancashire & S.Cumbria SCN,Royal Blackburn Hospital,0
+PR29HT,53.79135,-2.707403,Manchester; Lancashire & S.Cumbria SCN,Royal Preston Hospital,0
+BL97TD,53.60050365,-2.255336057,Manchester; Lancashire & S.Cumbria SCN,"Fairfield General Hospital, Bury",0
+M68HD,53.4875436489301,-2.32342434011624,Manchester; Lancashire & S.Cumbria SCN,Salford Royal Hospital,0
+SK27JE,53.3837858294065,-2.13201985525014,Manchester; Lancashire & S.Cumbria SCN,"Stepping Hill Hospital, Stockport",0
+LA144LF,54.1363942131604,-3.20788394883402,Manchester; Lancashire & S.Cumbria SCN,Furness General Hospital,0
+LA14RP,54.042726,-2.799232,Manchester; Lancashire & S.Cumbria SCN,Royal Lancaster Infirmary,0
+SR47TP,54.903063,-1.411018,North of England SCN,Sunderland Royal Hospital,0
+DH15TW,54.788497,-1.593834,North of England SCN,University Hospital of North Durham,0
+NE14LP,54.979575,-1.618908,North of England SCN,"Royal Victoria Infirmary, Newcastle",0
+CA27HY,54.8957438608567,-2.95529489924794,North of England SCN,"Cumberland Infirmary, Carlisle",0
+TS198PE,54.5829322305584,-1.347581,North of England SCN,"West Cumberland Hospital, Whitehaven",0
+NE236NZ,55.0740551161,-1.569492,North of England SCN,University Hospitals of North Tees and Hartlepool,0
+TS43BW,54.5517541224356,-1.21480539951365,North of England SCN,"Northumbria Specialist Emergency Care Hospital, Cramlington",0
+BD96RJ,53.80588085,-1.794697,Yorkshire and The Humber SCN,Bradford Royal Infirmary,0
+HX30PW,53.704821,-1.857509,Yorkshire and The Humber SCN,"Calderdale Royal Hospital, Halifax",0
+S445BL,53.2362216898594,-1.40008122859217,Yorkshire and The Humber SCN,Chesterfield Royal Hospital,0
+DN25LT,53.5307408328914,-1.10925667827747,Yorkshire and The Humber SCN,Doncaster Royal Infirmary,0
+HU32JZ,53.744113,-0.358146,Yorkshire and The Humber SCN,Hull Royal Infirmary,0
+LS13EX,53.8014441833498,-1.5517435885599,Yorkshire and The Humber SCN,Leeds General Infirmary;,0
+WF14DG,53.692418,-1.488555,Yorkshire and The Humber SCN,"Pinderfields Hospital, Wakefield",0
+DN157BH,53.587582,-0.667599,Yorkshire and The Humber SCN,Scunthorpe General Hospital,0
+S102JF,53.378355,-1.493331,Yorkshire and The Humber SCN,"Royal Hallamshire Hospital, Sheffield",0
+YO318HE,53.968952,-1.084285,Yorkshire and The Humber SCN,York Hospital,0
+KT160PZ,51.377832,-0.52706,South East SCN,"St Peter's Hospital, Chertsey",0
+BN25BE,50.81946696,-0.118176675,South East SCN,"Royal Sussex County Hospital, Brighton",0
+DA28DA,51.434952,0.258645,South East SCN,"Darent Valley Hospital, Dartford",0
+CT94AN,51.3780516250348,1.38938445982798,South East SCN,"Queen Elizabeth the Queen Mother Hospital, Margate",0
+TN240LZ,51.1414880891263,0.916208782351393,South East SCN,"William Harvey Hospital, Ashford",0
+BN212UD,50.78696723,0.271107483,South East SCN,Eastbourne District General Hospital,0
+KT187EG,51.325518,-0.273231,South East SCN,Epsom Hospital,0
+GU167UJ,51.3197,-0.7416,South East SCN,Frimley Park Hospital,0
+ME169QQ,51.2736607083433,0.48397392291932,South East SCN,Maidstone District General Hospital,0
+ME75NY,51.379862,0.542062,South East SCN,"Medway Maritime Hospital, Gillingham",0
+RH15RH,51.219194,-0.162009,South East SCN,"East Surrey Hospital, Redhill",0
+PO196SE,50.8435611100284,-0.768026698478816,South East SCN,"St Richards Hospital, Chichester",0
+BN112DH,50.81675641,-0.363429,South East SCN,Worthing Hospital,0
+GL13NN,51.8663886867703,-2.232073,South West SCN,"Gloucestershire Royal Hospital, Gloucester",0
+SN36BB,51.538528,-1.7272,South West SCN,"Great Western Hospital, Swindon",0
+BS105NB,51.4973316407584,-2.59294853441112,South West SCN,North Bristol Hospital NHS Trust,0
+EX314JB,51.0922001006618,-4.050431,South West SCN,"North Devon District Hospital, Barnstaple",1
+PL68DH,50.4167185395317,-4.11368451019577,South West SCN,"Derriford Hospital, Plymouth",1
+TR13LQ,50.266557,-5.094263,South West SCN,"Royal Cornwall Hospital, Truro",1
+EX25DW,50.7167104552595,-3.50668010107328,South West SCN,Royal Devon and Exeter Hospital,1
+BA13NG,51.391664,-2.391203448,South West SCN,Royal United Hospital Bath,0
+SP28BJ,51.0439539413155,-1.78982253093185,South West SCN,Salisbury District Hospital,0
+TA15DA,51.0119685567599,-3.11965,South West SCN,"Musgrove Park Hospital, Tautnon",0
+TQ27AA,50.4823238915546,-3.55379010251807,South West SCN,Torbay Hospital,1
+BS28HW,51.459154,-2.594785,South West SCN,Bristol Royal Infirmary,0
+BS234TQ,51.3223335096679,-2.97139863218557,South West SCN,"Weston General Hospital, Weston-super-Mare",0
+BA214AT,50.944843,-2.634712,South West SCN,Yeovil District Hospital,0
+HP112TT,51.626442,-0.753419137996399,Thames Valley SCN,"Wycombe General Hospital, High Wycombe",0
+MK65LD,52.0263815565189,-0.735795390306366,Thames Valley SCN,Milton Keynes General Hospital,0
+OX39DU,51.7638693398305,-1.21980635161297,Thames Valley SCN,"John Radcliffe Hospital, Oxford",0
+RG15AN,51.451022,-0.95933,Thames Valley SCN,"Royal Berkshire Hospital, Reading",0
+DT12JY,50.71294,-2.446936,Wessex SCN,"Dorset County Hospital, Dorchester",0
+SO225DG,51.061706,-1.32917,Wessex SCN,"Royal Hampshire County Hospital, Winchester",0
+PO305TG,50.710843,-1.30133,Wessex SCN,"St Mary's Hospital, Newport",0
+PO63LY,50.8502286893609,-1.069932,Wessex SCN,"Queen Alexandra Hospital, Portsmouth",0
+BH77DW,50.74748034,-1.8205054,Wessex SCN,Royal Bournemouth Hospital,0
+SO166YD,50.9330179967156,-1.43510401152766,Wessex SCN,Southampton General Hospital,0
