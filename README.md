@@ -1,5 +1,8 @@
 # 2010_geopandas
-Examples of geopandas
+Examples of geopandas.
+
+Notebook 1: Basic geopnadas methods, and production of maps
+Notebook 2: Add an inset map to a main map (e.g. for islands)
 
 ## Run on BinderHub
 
