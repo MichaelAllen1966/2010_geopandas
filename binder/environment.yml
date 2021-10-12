@@ -3,12 +3,11 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - geopandas=0.8.1
-  - geoplot=0.4.1
-  - jupyterlab=2.1.5.
-  - pysal=2.2.0
-  - python=3.7.7
-  - pip=20.2.2
+  - geopandas=0.9.0
+  - jupyterlab=3.1.7
+  - mapclassify=2.4.3
+  - pip=21.2.4
+  - python=3.8.11
+  - spyder=5.0.5
   - pip:
-    - contextily==1.0.0
-    - mapclassify==2.3.0
+    - contextily==1.1.0

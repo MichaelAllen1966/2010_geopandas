@@ -4,10 +4,10 @@ channels:
   - conda-forge
 dependencies:
   - geopandas
-  - geoplot
   - jupyterlab
-  - pysal
+  - mapclassify
   - pip
+  - spyder
   - pip:
     - contextily
-    - mapclassify
+
