@@ -3,11 +3,10 @@ channels:
   - defaults
   - conda-forge
 dependencies:
+  - contextily
   - geopandas
   - jupyterlab
   - mapclassify
   - pip
   - spyder
-  - pip:
-    - contextily
 
